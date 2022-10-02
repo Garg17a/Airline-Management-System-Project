@@ -1,0 +1,8 @@
+__________XYZ Airlines____________
+____________Ticket______________
+________________________________
+Customer ID:134567
+Customer Name:ghhgfdsad
+Customer Gender:Male
+	Description
+
